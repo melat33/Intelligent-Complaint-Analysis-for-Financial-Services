@@ -4,6 +4,7 @@ on: [push, pull_request]
 jobs:
   test:
     runs-on: ubuntu-latest
+    name: Test data processing
     
     steps:
     - uses: actions/checkout@v3
@@ -23,7 +24,7 @@ jobs:
         python -c "import pandas as pd; print('✓ Pandas installed')"
         python -c "import numpy as np; print('✓ NumPy installed')"
         python -c "from sentence_transformers import SentenceTransformer; print('✓ Sentence Transformers installed')"
-    
+     
     - name: Test data processing
       run: |
-        python -m pytest --import-mode=append -v || echo "Tests completed"
+        python -m pytest --import-mode=append -v
