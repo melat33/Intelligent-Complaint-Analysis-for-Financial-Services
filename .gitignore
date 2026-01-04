@@ -1,3 +1,5 @@
 venv/
 data/
 notebooks/reports/
+vector_store/
+simple_embeddings/
