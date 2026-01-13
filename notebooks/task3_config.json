@@ -1,0 +1,26 @@
+{
+  "system": {
+    "name": "AdvancedFinancialRAG",
+    "version": "1.0.0",
+    "status": "ready",
+    "last_updated": "2024-01-15"
+  },
+  "data": {
+    "documents_count": 5000,
+    "vector_store": "vector_store",
+    "collection": "complaint_embeddings"
+  },
+  "capabilities": {
+    "semantic_search": true,
+    "business_intelligence": true,
+    "confidence_scoring": true,
+    "query_enhancement": true,
+    "performance_analytics": true
+  },
+  "ui_config": {
+    "theme": "professional",
+    "charts_enabled": true,
+    "export_enabled": true,
+    "interactive_mode": true
+  }
+}
