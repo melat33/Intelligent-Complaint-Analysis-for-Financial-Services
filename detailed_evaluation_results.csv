@@ -1,6 +1,0 @@
-Question ID,Category,Question,Stakeholder,Priority,Total Score,Grade,Business Impact,Complaints Analyzed,Confidence,Business Relevance,Evidence Quality,Confidence Metrics,Actionability,Source Attribution,Performance
-BQ-001,Product Analysis,What are the top 3 complaint patterns for credit cards and their business impact?,Product Manager,High,49.0,D,Low,0,0,0.0,25,0.0,0,24,🔴 Needs Improvement
-BQ-002,Trend Analysis,What emerging fraud trends should our risk team prioritize?,Risk Officer,Critical,49.0,D,Low,0,0,0.0,25,0.0,0,24,🔴 Needs Improvement
-BQ-003,Comparative Analysis,Compare customer satisfaction issues between savings accounts and personal loans,Customer Experience,Medium,49.0,D,Low,0,0,0.0,25,0.0,0,24,🔴 Needs Improvement
-BQ-004,Root Cause Analysis,What are the root causes of money transfer delays and their financial impact?,Operations Director,High,40.0,D,Low,0,0,0.0,25,0.0,0,15,🔴 Needs Improvement
-BQ-005,Strategic Insights,"Based on complaint patterns, what product improvements should we prioritize?",Strategy Team,High,49.0,D,Low,0,0,0.0,25,0.0,0,24,🔴 Needs Improvement
