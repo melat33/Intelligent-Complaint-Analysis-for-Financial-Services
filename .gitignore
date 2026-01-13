@@ -3,3 +3,5 @@ data/
 notebooks/reports/
 vector_store/
 simple_embeddings/
+__pycache__/
+vector_store_1768244751/
